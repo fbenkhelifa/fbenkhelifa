@@ -13,7 +13,6 @@ I am a final-year State Engineering student at **ENSTTIC Oran** (Telecommunicati
 
 - Current focus: **AIGC quality assessment** (MOS prediction + semantic alignment)
 - Strengths: end-to-end ML delivery, experimentation discipline, and deployment readiness
-- Applications in progress: **Paris-Saclay M2** tracks (DataScale, DKAI, AI, SeCReTS, DiPaC, CNS-SR)
 
 ## À propos (FR)
 
